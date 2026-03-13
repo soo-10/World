@@ -1,0 +1,11 @@
+2026/03/13-08:58:19.814 44dc Creating DB C:/Finalproject/World/World/Saved/webcache_4430\Local Storage\leveldb since it was missing.
+2026/03/13-08:58:19.833 44dc Reusing MANIFEST C:/Finalproject/World/World/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/03/13-09:13:22.634 68b8 Level-0 table #5: started
+2026/03/13-09:13:22.641 68b8 Level-0 table #5: 64631 bytes OK
+2026/03/13-09:13:22.644 68b8 Delete type=0 #3
+2026/03/13-09:24:28.989 9b1c Level-0 table #7: started
+2026/03/13-09:24:29.000 9b1c Level-0 table #7: 65872 bytes OK
+2026/03/13-09:24:29.002 9b1c Delete type=0 #4
+2026/03/13-09:27:22.630 1994 Level-0 table #9: started
+2026/03/13-09:27:22.641 1994 Level-0 table #9: 68838 bytes OK
+2026/03/13-09:27:22.642 1994 Delete type=0 #6
